@@ -136,6 +136,9 @@ let author = message.member;
 
 if (command == 'stare'){
 
+        if (args[0])
+    return;
+    
     message.channel.send(`${author} stares at ${target}`),
     message.channel.send("https://tenor.com/view/stare-looking-bald-gif-17303875")
     
