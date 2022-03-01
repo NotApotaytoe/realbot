@@ -214,7 +214,7 @@ client.on('guildMemberAdd', guildMember =>{
     
 })
 
-client.login('ODcxNzE2MTIxNDAzODU0ODk4.YQfW5w.wPz8r7Qe6d83jffACYrSew0bVOA');
+client.login('tokenduh');
 
 
 
